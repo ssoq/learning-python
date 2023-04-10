@@ -2,7 +2,7 @@
 
 text = "this is my password"
 
-textInput = input("")
+textInput = input()
 
 if textInput == text:
     print("Correct")

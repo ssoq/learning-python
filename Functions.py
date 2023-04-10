@@ -1,2 +1,17 @@
-# here I will make use of functions in order to create a more in-depth password checker
+## function calling
 
+numberOne = 5
+numberTwo = 10
+
+def AddNumbersTogether():
+    print(numberOne + numberTwo)
+
+AddNumbersTogether()
+
+# return function
+
+def StringReturn():
+    sillyString = "some silly string"
+    return sillyString
+
+print(StringReturn())

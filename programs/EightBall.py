@@ -1,4 +1,4 @@
-# this is a basic eight ball program
+# basic eight ball program
 
 import random
 

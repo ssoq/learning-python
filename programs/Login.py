@@ -11,9 +11,6 @@ def Login():
 def EnterSystem():
     print("Welcome to your system.")
 
-if Login() == password:
-    EnterSystem()
-
 while Login() != password:
     Login()
 else:

@@ -10,7 +10,7 @@ symbols = ["$", "£", "#", "?"]
 
 def AmountOfCharacters():
     amountOfCharacters = random.randrange(12, 24)
-    print("The amount of characters chosen within your password will  be: " + str(amountOfCharacters))
+    print("The amount of characters chosen within your password will be: " + str(amountOfCharacters))
     return int(amountOfCharacters)
     # this function returns the random number of which will be used as the password length 
 

@@ -43,6 +43,7 @@ def DisplayOption():
         ReadOptions()
 
 def CloseProgram():
+    ClearConsole()
     print("Closing now...")
     quit()
 

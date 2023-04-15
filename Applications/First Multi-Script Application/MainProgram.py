@@ -14,7 +14,7 @@ def ReadOptions():
     print("We have " + str(len(PD.pretendDataArray)) + " lists of wanted peoples data, which would you like to view?")
     print("Out of the three, we store: names, ages, and the crimes commited.")
     print("If you would like all of the data, say: `All` or `all`.")
-    print("To quit, just say either `Quit` or `quit`.")
+    print("To quit, just say either: `Quit` or `quit`.")
     DisplayOption()
 
 def ChoosenOption():

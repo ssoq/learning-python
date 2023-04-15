@@ -5,7 +5,7 @@
 
 ### [Basic Programs:](https://github.com/ssoq/learning-python)
 
-These are programmed for me to learn the basics of loops, determaination statements, methods, functions, and such.
+These were programmed for me to learn the basics of loops, determaination statements, methods, functions, and such.
 
 <br>
 

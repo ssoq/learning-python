@@ -15,7 +15,7 @@ These are programmed for actual input from the users, as if it were a production
 
 <br>
 
-### [Large Programs:](https://github.com/ssoq/learning-python/tree/main/applications)
+### [Large Programs:](https://github.com/ssoq/learning-python/tree/main/Applications)
 
 These are to act out as actual programs, which means they are much more complex, containing a decent amount of code and multiple files within one program.
 

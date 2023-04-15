@@ -9,7 +9,7 @@ These are programmed for me to learn the basics of loops, determaination stateme
 
 <br>
 
-### [Mini Programs:]("https://github.com/ssoq/learning-python/tree/main/programs")
+[### Mini Programs:]("https://github.com/ssoq/learning-python/tree/main/programs")
 
 These are programmed for actual input from the users, as if it were a production ready program though, interaction is basic, meaning the code is not all that complex.
 

@@ -15,12 +15,12 @@ for i in range(5):
 
 # tadaaaaa, just like that
 
-for lewis in range(1, 10):
-    if lewis == 9:
-        print(lewis)
+for i in range(1, 10):
+    if i == 9:
+        print(i)
     continue # only prints 9 as continue excepts all other numbers
 
-for lewis in range(10):
-    print(lewis)
-    if lewis == 5:
+for i in range(10):
+    print(i)
+    if i == 5:
         break # stops the loop after lewis == 5

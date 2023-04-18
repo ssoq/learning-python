@@ -1,4 +1,3 @@
-import json
 import requests
 
 count = 0
